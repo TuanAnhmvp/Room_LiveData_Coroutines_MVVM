@@ -39,7 +39,7 @@
             android:layout_height="wrap_content"/>
 
         <EditText
-            android:id="@+id/det_add_des"
+            android:id="@+id/edt_add_des"
             android:textSize="26sp"
             android:layout_marginTop="5dp"
             android:layout_width="match_parent"

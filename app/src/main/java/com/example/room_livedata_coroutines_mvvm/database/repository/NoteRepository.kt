@@ -4,7 +4,7 @@ import android.app.Application
 import androidx.lifecycle.LiveData
 import com.example.room_livedata_coroutines_mvvm.database.NoteDatabase
 import com.example.room_livedata_coroutines_mvvm.database.dao.NoteDao
-import com.example.room_livedata_coroutines_mvvm.nodel.Note
+import com.example.room_livedata_coroutines_mvvm.model.Note
 
 class NoteRepository (app: Application){
     private val noteDao: NoteDao
